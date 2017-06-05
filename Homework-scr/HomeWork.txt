@@ -1,0 +1,18 @@
+Homework SCR: 
+
+Obiettivo: 
+	- Calcolare le soglie ad un Pfa dato e vari SNR
+	- Rilevare l'eventuale presenza del segnale primario all'interno delle sequenza date (probabilità).
+
+Dati: 
+	- sono date 3 sequenze. Ogni sequenza viene data con 4 SNR(rapporto segnale-rumore) diversi. d
+		Dunque ho 12 squenze in totale, ogni sequenza è composta da parte reale e immaginaria. 
+
+	SNR(in DB): 
+		-13
+		-8
+		-3
+		+2
+		
+
+	

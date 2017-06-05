@@ -1,0 +1,11 @@
+/bin/
+
+#ignora i file dentro la cartella setting
+.settings/
+
+#ignora i file dentro build (su github solo codice sorgente .java)
+build/
+
+.classpath
+.project
+*.MF
